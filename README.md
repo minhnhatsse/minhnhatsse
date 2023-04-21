@@ -12,7 +12,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://ibb.co/0FpDqbd)&nbsp;
-![C#](https://cdn.iconscout.com/icon/free/png-256/csharp-1-1175241.png?f=webp&w=256)&nbsp;
+![C#](https://ibb.co/2MxKmcP)&nbsp;
 ![Flask](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/120px-Flask_logo.svg.png?20120519143422)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
