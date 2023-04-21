@@ -3,7 +3,7 @@
 💡 &nbsp; I'm a software developer and researcher , working on research and apply AI/ML Algorithm 
 
 💻 &nbsp;\
-🎓&nbsp;I will graduated form Ho Chi Minh University of Technology and Education (Data Engineering, Batch of 2023).\
+🎓&nbsp;I will graduated from HCMC University of Technology and Education (Data Engineering, Batch of 2023).\
 🌱 &nbsp;I'm on track for learning more about Machine Learning, Data Warehouse and ETL/ELT Pipeline ...\
 ✍️ &nbsp;In my free time, I enjoy listening music and reading books\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
@@ -12,6 +12,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Flask](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/120px-Flask_logo.svg.png?20120519143422)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
